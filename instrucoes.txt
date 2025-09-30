@@ -1,0 +1,47 @@
+📝 Instruções para retomar o projeto "treinamentoDetran" com o ChatGPT
+✅ Contexto do projeto:
+
+Estou desenvolvendo um site simples em HTML/CSS/JS chamado treinamentoDetran, com exercícios de treino cognitivo, focando em:
+
+Atenção concentrada
+
+Atenção alternada
+
+Atenção dividida
+
+A ideia é disponibilizar isso via GitHub Pages, com estrutura clara, e eventualmente avaliar a possibilidade de transformar o projeto em um app Android no futuro.
+
+📂 Estrutura prevista do projeto:
+treinamentoDetran/
+├── index.html
+├── README.md
+├── css/
+│   └── styles.css
+├── js/
+│   ├── main.js
+│   ├── concentrada.js
+│   ├── alternada.js
+│   └── dividida.js
+
+🧠 Lógica esperada de cada exercício:
+
+Atenção Concentrada: focar em um tipo de estímulo, ignorar distrações (ex: identificar símbolos iguais entre vários, sob tempo).
+
+Atenção Alternada: mudar entre regras ou estímulos (ex: responder números pares e, em seguida, letras consoantes, alternando).
+
+Atenção Dividida: responder dois estímulos simultâneos (ex: acompanhar dois campos visuais e reagir a diferentes padrões).
+
+💬 Quando voltar a falar comigo, diga:
+
+“ChatGPT, quero continuar o projeto treinamentoDetran que falamos antes — aquele com os testes de atenção concentrada, dividida e alternada em HTML/CSS/JS. Pode me ajudar a gerar os códigos agora?”
+
+Ou só envie:
+📁 Estrutura + qual exercício quer implementar primeiro.
+
+💡 Dicas:
+
+Ative o GitHub Pages no seu repositório para testar online.
+
+Guarde esse plano no seu README.md ou em um Trello/Notion pessoal.
+
+Pode importar esse projeto futuramente para ferramentas como React ou Flutter (caso migre para app).
