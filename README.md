@@ -1,8 +1,10 @@
-# Treinamento DETRAN
+# Treinamento CNH
 
-Este projeto é um site simples com exercícios para treinar **atenção concentrada**, **atenção dividida** e **atenção alternada**. Ele é inspirado em exercícios cognitivos semelhantes aos aplicados em avaliações como exames psicotécnicos.
+Este projeto é um site simples com exercícios para treinar **atenção concentrada**, **atenção dividida** e **atenção alternada**.
+Ele é inspirado em exercícios cognitivos semelhantes aos aplicados em avaliações como exames psicotécnicos.
 
-⚠️ **Aviso legal:** Este projeto é apenas para fins educacionais e de prática pessoal. Não possui validade oficial, diagnóstica ou legal. Não substitui avaliação psicológica feita por profissional habilitado.
+⚠️ **Aviso legal:** Este projeto é apenas para fins educacionais e de prática pessoal.
+Não possui validade oficial, diagnóstica ou legal. Não substitui avaliação psicológica feita por profissional habilitado.
 
 ---
 
