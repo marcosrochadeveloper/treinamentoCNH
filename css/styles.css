@@ -1,0 +1,109 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin: 15px 0;
+}
+
+button {
+  margin: 8px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #007bff;
+  color: white;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+#menu {
+  margin-bottom: 20px;
+}
+
+#test-container {
+  margin-top: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(15, 60px);
+  gap: 10px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.item {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  border-radius: 8px;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.item:hover {
+  transform: scale(1.1);
+}
+
+.correct {
+  background: #28a745 !important;
+  color: white !important;
+}
+
+.wrong {
+  background: #dc3545 !important;
+  color: white !important;
+}
+
+.hidden {
+  display: none;
+}
+
+#score {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+#resultMsg {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* ---- Atenção Dividida (formas geométricas) ---- */
+.circle-red {
+  background: red;
+  border-radius: 50%;
+}
+
+.circle-blue {
+  background: blue;
+  border-radius: 50%;
+}
+
+.square-red {
+  background: red;
+  border-radius: 8px;
+}
+
+.square-blue {
+  background: blue;
+  border-radius: 8px;
+}
